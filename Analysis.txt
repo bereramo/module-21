@@ -14,3 +14,4 @@ Were you able to achieve the target model performance?
 No I was not able to achieve the traget of 75%, I was able to increase the 
 What steps did you take in your attempts to increase model performance?
 I attempted a variety a different changes with the classifcatuon account, included values as well as changing the amount of layers.
+
