@@ -1,7 +1,19 @@
+Results
+---------------
+1st Model 
+268/268 - 0s - 2ms/step - accuracy: 0.7245 - loss: 0.5555
+Loss: 0.5554794669151306, Accuracy: 0.7245481014251709
+
+2nd Model
+268/268 - 1s - 2ms/step - accuracy: 0.7272 - loss: 0.5521
+Loss: 0.5521294474601746, Accuracy: 0.7272303104400635
+
+Summary
+---------------
 The purpose of the this analysis was to develop a nueral network model that could accurately predict
 succesful ventures and those who would not be succeful Variables were analyzed to determine which factors would
 make a successful applicant and any ways to improve the model.
-
+Questions-------------------
 What variable(s) are the target(s) for your model?
 IS SUCCESFUL
 What variable(s) are the features for your model?
