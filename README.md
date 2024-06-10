@@ -2,14 +2,23 @@ This repository contains a project for the Alphabet Soup Foundation, aiming to d
 
 
 Prerequisites
+
 Python 
+
 TensorFlow
+
 Keras
+
 Pandas
+
 Scikit-learn
+
 
 Process
 Data Preprocessing
+
 Design the network
+
 Compile the Model
+
 Train the model
